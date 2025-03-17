@@ -1,4 +1,4 @@
-可用的 kuroshiro v1.1.2
+本项目是提供直接可用的 release 文件：kuroshiro v1.1.2 和 kuroshiro-analyzer-kuromoji v1.1.0
 
 原始项目：https://github.com/hexenq/kuroshiro
 
