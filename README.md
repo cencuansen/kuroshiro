@@ -1,5 +1,7 @@
 可用的 kuroshiro v1.1.2
 
+原始项目：https://github.com/hexenq/kuroshiro
+
 示例
 ```
 <!DOCTYPE html>
